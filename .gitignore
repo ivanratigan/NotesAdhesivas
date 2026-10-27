@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/Back-End/node_modules
+/Back-End/dist
+.env
+data/db.json
