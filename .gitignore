@@ -4,3 +4,5 @@
 /Back-End/dist
 .env
 data/db.json
+/Front-End/node_modules
+/Front-End/.next
